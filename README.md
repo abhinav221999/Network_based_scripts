@@ -24,7 +24,7 @@ The programme can be used to  find out other devices connected on your current n
 #### Replacing Downloads
 The programme can be used to replace downloads for a target computer by a malicious file on the fly.
 #### ARP Spoofer
-ARP stands for Address Resolution Protocol. This protocol is used to resolve MAC Address for a given IP Adress. This programme allows you to run a basic Man In The Midddle Attack by altering the ARP Tables of both the target and the Router. On COmpletion of the task the ARP tables are restored.
+ARP stands for Address Resolution Protocol. This protocol is used to resolve MAC Address for a given IP Adress. This programme allows you to run a basic Man In The Midddle Attack by altering the ARP Tables of both the target and the Router. On Completion of the task the ARP tables are restored.
 
 
 
