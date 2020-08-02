@@ -7,6 +7,7 @@ I have included the scripts to perform the following functions
 * **Keylogger and reporting via e-mail**
 * **Network Scanning** 
 * **Replacing Downloads** 
+* **ARP Soofing**
 ## Description
 #### MAC Address changer
 This programme can be used to change the MAC address i.e. the pyhsical address of your device as visible to other users on your current network. The interface can be chosen by the user for which the change is desired.
@@ -22,6 +23,8 @@ The programme can be used to record every key strike on the target computer and 
 The programme can be used to  find out other devices connected on your current network. It provides information of their Internal IP Adresses as well as MAC Adresses
 #### Replacing Downloads
 The programme can be used to replace downloads for a target computer by a malicious file on the fly.
+#### ARP Spoofer
+ARP stands for Address Resolution Protocol. This protocol is used to resolve MAC Address for a given IP Adress. This programme allows you to run a basic Man In The Midddle Attack by altering the IP Tables of both the target and the Router.
 
 
 
